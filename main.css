@@ -1,0 +1,23 @@
+body {
+}
+tr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+tr td{
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: right;
+}
+tr th{
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: right;
+}
+div .indent{
+    margin-left: 20px;
+}
+
+tr {
+    border: 1px solid black;
+}
